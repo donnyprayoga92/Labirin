@@ -1,2 +1,3 @@
 # Labirin
 test
+salah satu
